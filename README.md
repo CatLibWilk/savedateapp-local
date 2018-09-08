@@ -2,7 +2,7 @@
 Copy of group project "Save The Date"
 
 
-##Configuration Info
+## Configuration Info
 Before running, you need to:
 -add your database name and password to the config.json file.
 -create a .env file containing the following information:
